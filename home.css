@@ -90,17 +90,28 @@ footer {
 .namefoot {
     font-size: 18px;
 }
+
+
+/* style down here is for login */
 .logoforlogin{
-    padding-bottom: -200px;
     text-align: center;
 }
-.form1{
+.login{
     text-align: center;
-    margin-top: -350px;
 }
-.fp{
-    margin-left: 15px;
+.pssw, .logbutt, .fgpssw{
+    text-align: center;
 }
-.forget{
-    margin-left: 40px;
+
+
+/* style down here is for signup page  */
+.allform{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+/* style down here is for about us */
+.about{
+    padding: 20px;
 }
